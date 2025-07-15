@@ -8,3 +8,4 @@ python-dotenv
 fredapi
 newsapi-python
 transformers
+torch
