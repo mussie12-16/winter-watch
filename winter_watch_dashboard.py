@@ -12,4 +12,3 @@ Gold Price,"$2,375",Safe
 Oil Price,$78,Safe
 News Negativity Score,38%,Normal
 Recession Probability,22%,Low
-
