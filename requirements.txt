@@ -1,11 +1,13 @@
 streamlit
+yfinance
 pandas
 numpy
-yfinance
 plotly
-requests
+openai
 python-dotenv
 fredapi
 newsapi-python
 transformers
 torch
+scikit-learn
+
